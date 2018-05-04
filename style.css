@@ -1,0 +1,24 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	font-style: arial;
+	background-color: #ccc;
+	position: relative;
+}
+
+.form{
+	text-align:center;
+	padding-top: 200px;
+	color: black;
+	
+	
+}
+
+input{
+	width: 250px;
+	height: 25px;
+	padding: 5px;
+	border: 1px solid grey;
+	line-height: 60px;
+	background-color: white;
+}
